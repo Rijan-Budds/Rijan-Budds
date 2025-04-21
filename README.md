@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rijan-Buddhacharya
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Java and Spring Boot
+- 🌱 I’m currently learning React
 - 📫 How to reach me buddsrijan@gmail.com
 
 <!---

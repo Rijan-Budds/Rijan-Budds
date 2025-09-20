@@ -1,14 +1,6 @@
-- 👋 Hi, I’m @Rijan-Buddhacharya
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning React
-- 📫 How to reach me buddsrijan@gmail.com
+Hi there 👋
 
-<!---
-Rijan-Budds/Rijan-Budds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rijan-Budds)](https://git.io/streak-stats)
-
-![kyubey](https://github.com/Rijan-Budds/Rijan-Budds/assets/97865921/2b43d563-7c1a-4643-9c6b-474aa084f7c7)
-
+* I build user interfaces that are clean, fast, and intuitive
+* I enjoy working with React and Next.js
+* I also have experience with Python and Java
+* I like exploring how design and code come together to improve user experience
